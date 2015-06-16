@@ -1,2 +1,2 @@
 -module(test01).
--export([]).
+-export([start/0]).
